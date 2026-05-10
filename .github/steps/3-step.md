@@ -28,8 +28,8 @@ The workflow uses `safe-outputs: create-pull-request`, so the agent can draft we
    > ```prompt
    > - Update .github/workflows/update-github-info.md workflow
    > - Tell agent to:
-   >      web fetch https://awesome-copilot.github.com/workflows/
-   > - Add to sources awesome-copilot workflows https://awesome-copilot.github.com/workflows/
+   >      web fetch https://awesome-copilot.github.com/workflows
+   > - Add to sources awesome-copilot workflows https://awesome-copilot.github.com/workflows
    > - Don't compile this workflow yet. Just update the markdown workflow file.
    > ```
 
