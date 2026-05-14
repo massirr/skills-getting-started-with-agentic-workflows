@@ -10,6 +10,8 @@ safe-outputs:
     title-prefix: "[mona] "
     draft: true
     fallback-as-issue: false
+  report-incomplete:
+    create-issue: true
 tools:
   edit:
   web-fetch:
