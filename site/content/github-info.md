@@ -16,4 +16,14 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 - Recent GitHub Blog and Changelog stories worth watching.
 
 ## Latest GitHub Updates
-- GitHub Actions artifact uploads now use v4 for better reliability.
+
+- **GitHub Actions artifact uploads now use v4 for better reliability.** (Source: GitHub Changelog)
+
+- **Awesome Copilot Workflows** (Source: [Awesome Copilot Workflows](https://awesome-copilot.github.com/workflows/))
+  - *Daily Issues Report*: Generates a daily summary of open issues and recent activity as a GitHub issue.
+  - *OSPO Contributors Report*: Monthly contributor activity metrics across an organization's repositories.
+  - *OSPO Organization Health Report*: Weekly health report for a GitHub organization, surfacing stale issues/PRs, merge time analysis, contributor leaderboards, and actionable items.
+  - *OSPO Stale Repository Report*: Identifies inactive repositories and generates archival recommendations.
+  - *OSS Release Compliance Checker*: Analyzes a repository for open source release requirements and posts a compliance report as an issue comment.
+
+Stay tuned for more updates from the [GitHub Blog](https://github.blog/latest/) and [Changelog](https://github.blog/changelog/).
