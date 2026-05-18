@@ -29,4 +29,10 @@ Mona's website focuses on practical GitHub guidance backed by official reference
   - *Relevance Summary*: Summarizes all open issues and PRs with a /relevance-check response into a single issue.
   - *Weekly Comment Sync*: Keeps comments in sync across issues and pull requests on a weekly schedule.
 
+### New and Noteworthy (May 2026)
+
+- **GitHub Copilot Workspace**: Now in public beta, Copilot Workspace lets you plan, build, test, and ship code with AI-powered agents directly in your browser. (Source: [GitHub Blog](https://github.blog/latest/))
+- **Copilot for Pull Requests**: Copilot now suggests pull request descriptions and can help summarize code changes. (Source: [GitHub Blog](https://github.blog/latest/))
+- **GitHub Actions Matrix Strategy Improvements**: Enhanced support for dynamic job matrices and easier configuration. (Source: [GitHub Changelog](https://github.blog/changelog/))
+
 Stay tuned for more updates from the [GitHub Blog](https://github.blog/latest/) and [Changelog](https://github.blog/changelog/).
