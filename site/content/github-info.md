@@ -22,11 +22,15 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 - **Awesome Copilot Workflows** ([Awesome Copilot Workflows](https://awesome-copilot.github.com/workflows/))
   - *Daily Issues Report*: Generates a daily summary of open issues and recent activity as a GitHub issue.
   - *OSPO Contributors Report*: Monthly contributor activity metrics across an organization’s repositories.
-  - *OSPO Organization Health Report*: Weekly health report for a GitHub organization, surfacing stale issues/PRs, merge time analysis, contributor leaderboards, and actionable items.
-  - *OSPO Stale Repository Report*: Identifies inactive repositories and generates archival recommendations.
-  - *OSS Release Compliance Checker*: Analyzes a repository for open source release requirements and posts a compliance report as an issue comment.
+  - *OSPO Organization Health Report*: Weekly health report for a GitHub organization. Surfaces stale issues/PRs, merge time analysis, contributor leaderboards, and actionable items needing human attention.
+  - *OSPO Stale Repository Report*: Identifies inactive repositories in your organization and generates an archival recommendation report.
+  - *OSS Release Compliance Checker*: Analyzes a target repository against open source release requirements and posts a detailed compliance report as an issue comment.
   - *Relevance Check*: Slash command to evaluate whether an issue or pull request is still relevant to the project.
-  - *Relevance Summary*: Summarizes all open issues and PRs with a /relevance-check response into a single issue.
-  - *Weekly Comment Sync*: Keeps comments in sync across issues and pull requests on a weekly schedule.
+  - *Relevance Summary*: Manually triggered workflow that summarizes all open issues and PRs with a /relevance-check response into a single issue.
+  - *Weekly Comment Sync*: Weekly workflow that finds stale code comments or README snippets, makes text-only synchronization updates, and opens a draft pull request when changes are needed.
 
 Stay tuned for more updates from the [GitHub Blog](https://github.blog/latest/) and [Changelog](https://github.blog/changelog/).
+
+---
+
+*This page is regularly updated with practical GitHub and Copilot workflow tips. Source: [Awesome Copilot Workflows](https://awesome-copilot.github.com/workflows/), [GitHub Blog](https://github.blog/latest/), [GitHub Changelog](https://github.blog/changelog/).*
